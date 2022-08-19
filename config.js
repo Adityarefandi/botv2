@@ -44,33 +44,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/kontol_elite'
-global.sgh = 'https://github.com/Jikarinka'
-global.sgc = 'https://chat.whatsapp.com/FF1Bd1U0FHu42rfz6uplbn'
+global.sig = 'Gak punya 😂'
+global.sgh = 'https://github.com/Adityarefandi'
+global.sgc = 'https://chat.whatsapp.com/KosmbTPMlB2DvXh1R93ns0'
 global.sdc = " "
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085334930628'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085334930628'
-global.ppulsa2 = '081336990781'
+global.pdana = '082244877433'
+global.povo = '-'
+global.pgopay = '082244877433'
+global.ppulsa = '082244877433'
+global.ppulsa2 = '6285756299585'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281336990781'
-global.nomorown = '6285334930628'
-global.namebot = 'Kanna BOT'
-global.nameown = 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ'
+global.nomorbot = '6285756299585'
+global.nomorown = '6282244877433'
+global.namebot = 'Dɪᴛ´ᴢ_Bᴏᴛ'
+global.nameown = '𝒜𝒹𝒾𝓉𝓎𝒶 ℛℯ𝒻𝒶𝓃𝒹𝒾'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285334930628'],
-  ['6285334930628'],
-  ['18126338970'],
-  ['6285334930628', 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ', true]
+  ['6282244877433'],
+  ['6282244877433'],
+  ['6281311155159'],
+  ['6281311155159', '𝒜𝒹𝒾𝓉𝓎𝒶 ℛℯ𝒻𝒶𝓃𝒹𝒾', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -115,9 +115,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Ƙαnnα BOT あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ƙαnnα - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Ƙαnnα 𝗕𝗢𝗧'
+global.wm = '                「 𝒜𝒹𝒾𝓉𝓎𝒶 ℛℯ𝒻𝒶𝓃𝒹𝒾☘︎⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝒜𝒹𝒾𝓉𝓎𝒶 ℛℯ𝒻𝒶𝓃𝒹𝒾˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Dɪᴛ´ᴢ_Bᴏᴛ'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
@@ -146,8 +146,8 @@ global.drtf = 'text/rtf'
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 
 /*=========== FAKE SIZE ===========*/
-global.fsizedoc = '99999999999999' // default 10TB
-global.fpagedoc = '999'
+global.fsizedoc = '123456789' // default 10TB
+global.fpagedoc = '999999'
 
 /*=========== HIASAN ===========*/
 // DEFAULT MENU
@@ -173,8 +173,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = '.'
-global.stickauth = `☂︎\n𝗞\na\nn\nn\na\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickpack = '𝙈𝘼𝘿𝙀 𝘽𝙔'
+global.stickauth = `☂︎\nDɪᴛ´ᴢ_Bᴏᴛ\na\nn\nn\na\n-\n\n\n\n\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 
 global.multiplier = 38 // The higher, The harder levelup
 
