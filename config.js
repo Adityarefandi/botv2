@@ -120,7 +120,7 @@ global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝒜𝒹𝒾𝓉𝓎𝒶 ℛℯ�
 global.wm3 = '⫹⫺ Dɪᴛ´ᴢ_Bᴏᴛ'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
+global.titlebot = '🌱 D͟i͟t͟`z͟_B͟o͟t͟☘︎'
 global.author = global.wm
 
 
@@ -146,7 +146,7 @@ global.drtf = 'text/rtf'
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 
 /*=========== FAKE SIZE ===========*/
-global.fsizedoc = '123456789' // default 10TB
+global.fsizedoc = '000' // default 10TB
 global.fpagedoc = '999999'
 
 /*=========== HIASAN ===========*/
